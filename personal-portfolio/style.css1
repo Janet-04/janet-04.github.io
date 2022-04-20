@@ -1,7 +1,7 @@
 h1 {
   color: #ff5e94;
   font-family: garamond;
-  font-size: 36px;
+  font-size: 48px;
 }
 
 h2 {
@@ -20,5 +20,4 @@ p {
 
 #grad {
   background-image: linear-gradient(#f7b0db,#baebff);
-
 }
