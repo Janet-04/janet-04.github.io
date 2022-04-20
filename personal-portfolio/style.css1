@@ -1,0 +1,20 @@
+h1 {
+  color: #ff5e94;
+  font-family: garamond;
+  font-size: 36px;
+}
+
+h2 {
+  color: #ff5e94;
+  font-family: garamond;
+  font-size: 30px;
+}
+
+p {
+  color: #ebad63;
+  font-family: arial;
+  font-size: 24px;
+  background: linear-gradient(#f7b0db,#baebff);
+  border-style: double;
+  border-width; 2px;
+}
