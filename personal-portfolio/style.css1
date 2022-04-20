@@ -19,6 +19,6 @@ p {
 }
 
 #grad {
-  background-image: linear-gradient(#f7b0db,#baebff);
+  background-image: linear-gradient(#f7b0db,#f2d574,#baebff);
 
 }
