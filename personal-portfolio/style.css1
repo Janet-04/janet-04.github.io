@@ -16,5 +16,9 @@ p {
   font-size: 24px;
   border-style: double;
   border-width; 2px;
+}
+
+body {
   background: linear-gradient(#f7b0db,#baebff);
+
 }
