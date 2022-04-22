@@ -10,6 +10,12 @@ h2 {
   font-size: 30px;
 }
 
+h3 {
+  color: #ff5e94;
+  font-family: garamond;
+  font-size: 36px;
+
+
 p {
   color: #ebad63;
   font-family: arial;
@@ -28,5 +34,6 @@ p.b {
       text-align-last: center;
      }
 
-
-    
+h3.b {
+      text-align-last: center;
+}
