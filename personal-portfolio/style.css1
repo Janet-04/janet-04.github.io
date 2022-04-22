@@ -24,10 +24,9 @@ p {
 
 
 
-
-
-<style>
-    p.b {
+p.b {
       text-align-last: center;
      }
-</style>
+
+
+    
