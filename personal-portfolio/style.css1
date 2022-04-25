@@ -16,28 +16,15 @@ h3 {
   font-size: 36px;
 
 
-p {
+p.b {
   color: #ebad63;
   font-family: arial;
   font-size: 24px;
   border-style: double;
   border-width; 2px;
+  text-align-last: center;
 }
 
 #grad {
   background-image: linear-gradient(#f7b0db,#baebff);
 }
-
-
-
-
-
-
-
-     <style>
-
-     p.b {
-       text-align-last: center;
-     }
-
-     </style>
