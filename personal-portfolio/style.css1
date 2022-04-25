@@ -30,10 +30,14 @@ p {
 
 
 
-p.b {
-      text-align-last: center;
+
+
+
+
+     <style>
+
+     p.b {
+       text-align-last: center;
      }
 
-h3.b {
-      text-align-last: center;
-}
+     </style>
