@@ -16,7 +16,7 @@ h3 {
   font-size: 36px;
 
 
-.center {
+p {
   color: #ebad63;
   font-family: arial;
   font-size: 24px;
