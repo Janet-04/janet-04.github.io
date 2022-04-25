@@ -16,13 +16,13 @@ h3 {
   font-size: 36px;
 
 
-p.b {
+.center {
   color: #ebad63;
   font-family: arial;
   font-size: 24px;
   border-style: double;
   border-width; 2px;
-  text-align-last: center;
+  text-align: center;
 }
 
 #grad {
