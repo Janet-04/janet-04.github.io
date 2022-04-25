@@ -22,7 +22,6 @@ p {
   font-size: 24px;
   border-style: double;
   border-width; 2px;
-  text-align: center;
 }
 
 #grad {
