@@ -24,6 +24,7 @@ p {
   border-width; 2px;
 }
 
+
 #grad {
   background-image: linear-gradient(#f7b0db,#baebff);
 }
